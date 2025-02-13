@@ -54,8 +54,7 @@ We welcome contributions from the community! If you'd like to help improve our r
 ## Contact
 
 - Website: [https://kcd2.org](https://kcd2.org)
-- Discord: [Join our community]()
-- Twitter: [@KCD2_Hub]()
+- Email: [support@kcd2.org](support@kcd2.org)
 
 ## License
 
