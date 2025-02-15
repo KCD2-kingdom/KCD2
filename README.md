@@ -58,6 +58,7 @@ We welcome contributions from the community! If you'd like to help improve our r
 
 ## Related Posts
 - [SourceForge](https://sourceforge.net/projects/kcd2/)
+- [Lovable project](https://launched.lovable.app/kcd2)
 
 ## License
 
