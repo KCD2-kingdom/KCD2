@@ -59,6 +59,14 @@ We welcome contributions from the community! If you'd like to help improve our r
 ## Related Posts
 - [SourceForge](https://sourceforge.net/projects/kcd2/)
 - [Lovable project](https://launched.lovable.app/kcd2)
+- [GoogleBlog](https://developers-id.googleblog.com/2023/03/vidio-perkuat-kesuksesannya-di.html?sc=1739616699533#c3991329339995274565)
+- [sakura](http://www15420ui.sakura.ne.jp/snapblog/diary/class/20081129_02.htm#wb)
+- [acm](https://interactions.acm.org/blog/view/embodied-games-from-nyu-itp/comment_added#comments)
+- [ticksy](https://veented.ticksy.com/ticket/3606708)
+- [clover](https://community.clover.com/questions/56930/apple-pay-for-hosted-checkout.html?childToView=113654#answer-113654)
+- [xrea](http://eivissa.s3.xrea.com/ClubSantAntoni/)
+- [ualberta](https://icon4.biology.ualberta.ca/scientific-organizing-committee/#comment-642681)
+- 
 
 ## License
 
