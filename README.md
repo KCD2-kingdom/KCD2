@@ -56,6 +56,9 @@ We welcome contributions from the community! If you'd like to help improve our r
 - Website: [https://kcd2.org](https://kcd2.org)
 - Email: [support@kcd2.org](support@kcd2.org)
 
+## Related Posts
+- [SourceForge](https://sourceforge.net/projects/kcd2/)
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
