@@ -66,7 +66,15 @@ We welcome contributions from the community! If you'd like to help improve our r
 - [clover](https://community.clover.com/questions/56930/apple-pay-for-hosted-checkout.html?childToView=113654#answer-113654)
 - [xrea](http://eivissa.s3.xrea.com/ClubSantAntoni/)
 - [ualberta](https://icon4.biology.ualberta.ca/scientific-organizing-committee/#comment-642681)
-- 
+- [zebra](https://developer.zebra.com/blog/ai-gets-mind-its-own-could-be-how-skynet-starts#comment-53849)
+- [opensuse](https://hackweek.opensuse.org/projects/extend-repomd-parser-with-appstream-data)
+- [tributearchive](https://www.tributearchive.com/resources/2bc817b7-9db2-44d1-a919-0115b60711b3/finding-the-right-grief-counselor)
+- [abantecart](https://forum.abantecart.com/index.php?topic=8552.0)
+- [hackmd](https://hackmd.io/pvbO02D9ROWtJu1ODHq10Q?comment=18b3b7c2-3c75-47bc-9112-ca6f51d8fcb1&utm_source=comment-card&utm_medium=icon)
+- [jcyl](https://www.educa.jcyl.es/blogs/en/leyendo/fase-provincial-burgos-i-certamen-lectura-publico)
+- [rspo.org](http://forum.ga18.rspo.org/viewtopic.php?f=8&t=30798&p=264769#p264769)
+- [dti.ne.jp](https://webkit.dti.ne.jp/bbs1/mekahouse/mekag/)
+- [rockwool.com](https://as-cn-video.rockwool.com/7-strengths-testing-thermal)
 
 ## License
 
