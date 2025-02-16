@@ -88,7 +88,16 @@ We welcome contributions from the community! If you'd like to help improve our r
 - [twentythree](https://bl.twentythree.com/alment-inside-historisk-retssag-er)
 - [bccampus](https://scope.bccampus.ca/mod/forum/discuss.php?d=27908#p109335)
 - [cgscholar](https://cgscholar.com/community/profiles/user-46780/updates/53640)
-
+- [cinvestav](https://difusion.cinvestav.mx/La-Academia/Galer%C3%ADa/emodule/6215/eitem/515)
+- [puglia.it](https://edottosgd.sanita.puglia.it/knowledgetree/action.php?kt_path_info=ktcore.actions.document.discussion&fDocumentId=16186&fThreadId=240&action=viewThread)
+- [espm.br](https://www.interacao.espm.br/post/desentoca-2020)
+- [leadoo.com](https://webinar.leadoo.com/kan-du-grunderna-i-1)
+- [codenewbie](https://community.codenewbie.org/zorian/5-best-email-apis-for-developers-an-overview-5g43/comments)
+- [bai.ne.jp](https://suzujrtugofwar.blog.bai.ne.jp/?eid=109124)
+- [cari](https://b.cari.com.my/home.php?mod=space&uid=2223192&do=album&picid=150517)
+- [halfmoon](https://is.halfmoon.jp/thankyou/uni_patio/uni_patio.cgi?mode=view&no=4561)
+- [doyogawithme](https://www.doyogawithme.com/blog/how-wheel-pose#comment-155933)
+- [wox.cc](https://sorairo.bbs.wox.cc/#form)
 
 
 
