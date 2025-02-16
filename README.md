@@ -98,6 +98,7 @@ We welcome contributions from the community! If you'd like to help improve our r
 - [halfmoon](https://is.halfmoon.jp/thankyou/uni_patio/uni_patio.cgi?mode=view&no=4561)
 - [doyogawithme](https://www.doyogawithme.com/blog/how-wheel-pose#comment-155933)
 - [wox.cc](https://sorairo.bbs.wox.cc/#form)
+- [IRANA](https://inara.cz/kingdom-come-2/board-thread/12075/#newpost)
 
 
 
