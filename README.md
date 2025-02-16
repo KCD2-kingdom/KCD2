@@ -75,6 +75,13 @@ We welcome contributions from the community! If you'd like to help improve our r
 - [rspo.org](http://forum.ga18.rspo.org/viewtopic.php?f=8&t=30798&p=264769#p264769)
 - [dti.ne.jp](https://webkit.dti.ne.jp/bbs1/mekahouse/mekag/)
 - [rockwool.com](https://as-cn-video.rockwool.com/7-strengths-testing-thermal)
+- [ufba.br](https://noosfero.ufba.br/freeaccounts/blog/apk-download#!)
+- [dinstudio](http://www.i21kf.dinstudio.se/blog_22_12.html)
+- [documentfoundation](https://bugs.documentfoundation.org/show_bug.cgi?id=69280)
+- [gea.com](https://webinar.gea.com/gea09ammoniadavidchristine3mp4)
+- [ddo.jp](http://hktagb.ddo.jp/diarypro-vb/diary.cgi?date=20220211)
+- [urnadecristal](https://www.urnadecristal.gov.co/pacto_justicia_tarifaria_que_es?page=1#comment-708)
+- [shacknews](https://www.shacknews.com/article/138521/milk-palworld?ref=chatty#item_42740292)
 
 ## License
 
