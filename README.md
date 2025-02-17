@@ -99,7 +99,16 @@ We welcome contributions from the community! If you'd like to help improve our r
 - [doyogawithme](https://www.doyogawithme.com/blog/how-wheel-pose#comment-155933)
 - [wox.cc](https://sorairo.bbs.wox.cc/#form)
 - [IRANA](https://inara.cz/kingdom-come-2/board-thread/12075/#newpost)
-
+- [lingvolive](https://www.lingvolive.com/ru-ru/community/posts/1501343)
+- [kangwon.ac.kr](http://sar.kangwon.ac.kr/spboard/board.cgi?id=mathone16&action=view&gul=5&page=1&go_cnt=1&sort=down#ETC_5_87)
+- [blendswap](https://blendswap.com/blend/31259)
+- [blendswap 2](https://www.blendswap.com/blend/21290)
+- [synfig](https://www.synfig.org/issues/thebuggenie/synfig/issues/7180)
+- [industryarena](https://en.industryarena.com/forum/showthread.php?t=457780&p=2549206)
+- [prismo.fedibird](https://prismo.fedibird.com/posts/4cbdbfc2-2af6-4317-884a-90125cb7d45c)
+- [proweb.cz](https://volejbalrepy.proweb.cz/rozpisy/kde-najdu-spolehlivy-obchod-s-jednorazovymi-elektronickymi-cigaretami-6058/prispevek-vytvoren#pwcmfef-post-55395)
+- [khadas](https://www.khadas.com/post/khadas-vim3-won-t-use-s922x)
+- [muvizu](https://videos.muvizu.com/Profile/Kimberley228K/Latest/)
 
 
 ## License
