@@ -112,6 +112,8 @@ We welcome contributions from the community! If you'd like to help improve our r
 - [offcourse](https://offcourse.co/users/activity/14228/)
 - [highlite](https://forum.highlite.com/showthread.php?tid=1831&pid=4377#pid4377)
 - [onlineslangdictionary](http://onlineslangdictionary.com/meaning-definition-of/raspberry-pi)
+- [yarnharlot](https://www.yarnharlot.ca/2024/11/the-state-of-things-34-days/#comment-1705399)
+- [farming-mods](https://farming-mods.com/news/vydelennye_servera_i_prilozhenija/2018-07-14-33)
 
 
 ## License
