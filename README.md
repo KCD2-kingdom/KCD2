@@ -110,6 +110,8 @@ We welcome contributions from the community! If you'd like to help improve our r
 - [khadas](https://www.khadas.com/post/khadas-vim3-won-t-use-s922x)
 - [muvizu](https://videos.muvizu.com/Profile/Kimberley228K/Latest/)
 - [offcourse](https://offcourse.co/users/activity/14228/)
+- [highlite](https://forum.highlite.com/showthread.php?tid=1831&pid=4377#pid4377)
+- [onlineslangdictionary](http://onlineslangdictionary.com/meaning-definition-of/raspberry-pi)
 
 
 ## License
