@@ -114,6 +114,7 @@ We welcome contributions from the community! If you'd like to help improve our r
 - [onlineslangdictionary](http://onlineslangdictionary.com/meaning-definition-of/raspberry-pi)
 - [yarnharlot](https://www.yarnharlot.ca/2024/11/the-state-of-things-34-days/#comment-1705399)
 - [farming-mods](https://farming-mods.com/news/vydelennye_servera_i_prilozhenija/2018-07-14-33)
+- [informe21](https://www.informe21.com/post/gustavo-dudamel-brill%C3%B3-en-la-reapertura-de-la-catedral-de-notre-dame)
 
 
 ## License
