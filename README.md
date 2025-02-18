@@ -119,7 +119,10 @@ We welcome contributions from the community! If you'd like to help improve our r
 - [thewatchtower2](https://www.thewatchtower.com/blogs_on/ai-in-finance)
 - [poradna](https://pc.poradna.net/flashes/3004116-linux-ve-windows-umi-gui-aplikace#r3286963)
 - [pulpmx](https://pulpmx.com/2024/12/15/maxxis-tires-classic-ink-66-1983-honda-mx-ers/#comment-226398)
-
+- [fakeidvendors](https://forum.fakeidvendors.com/post/aykgvhub9g#comment-7aigelfuux)
+- [betterreading](https://www.betterreading.com.au/news/qa-michael-connelly-author-of-the-waiting/)
+- [joshuaweissman](https://www.joshuaweissman.com/post/making-fried-rice-faster-than-a-restaurant-but-faster)
+- [fazier](https://fazier.com/launches/kcd2)
 
 ## License
 
