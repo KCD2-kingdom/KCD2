@@ -118,6 +118,7 @@ We welcome contributions from the community! If you'd like to help improve our r
 - [swap-bot](https://www.swap-bot.com/swap/show/130849#comment-937003)
 - [thewatchtower2](https://www.thewatchtower.com/blogs_on/ai-in-finance)
 - [poradna](https://pc.poradna.net/flashes/3004116-linux-ve-windows-umi-gui-aplikace#r3286963)
+- [pulpmx](https://pulpmx.com/2024/12/15/maxxis-tires-classic-ink-66-1983-honda-mx-ers/#comment-226398)
 
 
 ## License
