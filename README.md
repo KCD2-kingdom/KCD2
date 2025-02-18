@@ -72,7 +72,7 @@ We welcome contributions from the community! If you'd like to help improve our r
 - [abantecart](https://forum.abantecart.com/index.php?topic=8552.0)
 - [hackmd](https://hackmd.io/pvbO02D9ROWtJu1ODHq10Q?comment=18b3b7c2-3c75-47bc-9112-ca6f51d8fcb1&utm_source=comment-card&utm_medium=icon)
 - [jcyl](https://www.educa.jcyl.es/blogs/en/leyendo/fase-provincial-burgos-i-certamen-lectura-publico)
-- [rspo.org](http://forum.ga18.rspo.org/viewtopic.php?f=8&t=30798&p=264769#p264769)
+- [rspo.org](http://forum.ga18.rspo.org/viewtopic.php?f=8&t=30798&p=265229#p265229)
 - [dti.ne.jp](https://webkit.dti.ne.jp/bbs1/mekahouse/mekag/)
 - [rockwool.com](https://as-cn-video.rockwool.com/7-strengths-testing-thermal)
 - [ufba.br](https://noosfero.ufba.br/freeaccounts/blog/apk-download#!)
@@ -99,6 +99,7 @@ We welcome contributions from the community! If you'd like to help improve our r
 - [doyogawithme](https://www.doyogawithme.com/blog/how-wheel-pose#comment-155933)
 - [wox.cc](https://sorairo.bbs.wox.cc/#form)
 - [IRANA](https://inara.cz/kingdom-come-2/board-thread/12075/#newpost)
+- [nintendo-master](https://www.nintendo-master.com/jeux/switch/emio/preview)
 - [lingvolive](https://www.lingvolive.com/ru-ru/community/posts/1501343)
 - [kangwon.ac.kr](http://sar.kangwon.ac.kr/spboard/board.cgi?id=mathone16&action=view&gul=5&page=1&go_cnt=1&sort=down#ETC_5_87)
 - [blendswap](https://blendswap.com/blend/31259)
@@ -123,6 +124,9 @@ We welcome contributions from the community! If you'd like to help improve our r
 - [betterreading](https://www.betterreading.com.au/news/qa-michael-connelly-author-of-the-waiting/)
 - [joshuaweissman](https://www.joshuaweissman.com/post/making-fried-rice-faster-than-a-restaurant-but-faster)
 - [fazier](https://fazier.com/launches/kcd2)
+- [BAI tools](https://bai.tools/tools/kcd2)
+- [karisamuels](https://karisamuels.com/home-numerology/#comment-49686)
+- [whmcs](https://requests.whmcs.com/idea/student-system)
 
 ## License
 
