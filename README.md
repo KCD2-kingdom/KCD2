@@ -136,7 +136,15 @@ We welcome contributions from the community! If you'd like to help improve our r
 - [karisamuels](https://karisamuels.com/home-numerology/#comment-49686)
 - [whmcs](https://requests.whmcs.com/idea/student-system)
 - [readweb](https://readweb.ai/en/page/f7020b906655aa0fd1cd8293955cf559)
-- 
+- [recordsetter](https://recordsetter.com/world-record/finish-death-egg-zone-sonic-the-hedgehog-2/38145#)
+- [wixstudio](https://fnfansite.wixstudio.com/fridaynightfansite/forum/skin-mods/_hiii-1)
+- [ithome](https://ithelp.ithome.com.tw/questions/10199103)
+- [webinars.oag.com](https://webinars.oag.com/oag-webinar-china-outbound-are-we-4)
+- [powerappsportals](https://odoe.powerappsportals.us/en-US/forums/crep/20951256-2af7-ed11-913a-00155d36dfa6?msCorrelationId=5091b1b3-7580-4076-9d9a-101ed52d2811&instanceId=d7edddb5abdf8e61cbe22f0821309876933943c887c8ff722663d1c9289bf4d4&tenantId=aa3f6932-fa7c-47b4-a0ce-a598cad161cf&portalId=6dd10c6b-c0ea-4952-bb98-d27755601545&orgId=1f82ae49-c85f-4f22-a649-130f24932932&environmentId=b914023e-9014-4249-90cc-5f93e67947b8&portalApp=site-6dd10c6b-c0ea-4952-bb98-d27755601545-GCv&portalType=CustomerPortal&portalProductionOrTrialType=Production&licenseType=Dynamics365&portalVersion=9.7.1.14&islandId=&portalDomain=https%3A%2F%2Fodoe.powerappsportals.us&page=6)
+- [farmshare](https://www.farmshare.org/post/farm-share-loves-volunteers)
+- [bitsdujour](https://www.bitsdujour.com/suggest/robotask)
+- [thelazy](https://sfx.k.thelazy.net/forum/general/553/)
+- [sweet-yogini](https://www.sweet-yogini.com/sharing-what-i-love-blog/numerology-magic-science)
 
 ## License
 
