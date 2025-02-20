@@ -162,6 +162,11 @@ We welcome contributions from the community! If you'd like to help improve our r
 - [fnfansite.wixstudio.com](https://fnfansite.wixstudio.com/fridaynightfansite/forum/coding-and-programming/problems-with-compiling-psych-engine)
 - [imobie](https://forum.imobie.com/index.php/thread/phonerescue-for-ios/)
 - [wpomatic.lighthouseapp.com](https://wpomatic.lighthouseapp.com/projects/12080-wp-o-matic/tickets/548-interactivity-and-consequences#ticket-548-128)
+- [powerappsportals](https://odoe.powerappsportals.us/en-US/forums/crep/20951256-2af7-ed11-913a-00155d36dfa6?msCorrelationId=b122d47f-835c-4a73-858e-a2ec45e1c859&instanceId=d7edddb5abdf8e61cbe22f0821309876933943c887c8ff722663d1c9289bf4d4&tenantId=aa3f6932-fa7c-47b4-a0ce-a598cad161cf&portalId=6dd10c6b-c0ea-4952-bb98-d27755601545&orgId=1f82ae49-c85f-4f22-a649-130f24932932&environmentId=b914023e-9014-4249-90cc-5f93e67947b8&portalApp=site-6dd10c6b-c0ea-4952-bb98-d27755601545-GCv&portalType=CustomerPortal&portalProductionOrTrialType=Production&licenseType=Dynamics365&portalVersion=9.7.1.14&islandId=&portalDomain=https%3A%2F%2Fodoe.powerappsportals.us&page=6)
+- [elearn.ellak.gr](https://elearn.ellak.gr/mod/forum/discuss.php?d=18836&mode=1#p46580)
+- [certifiedpastryaficionado](https://www.certifiedpastryaficionado.com/strawberry-tres-leches/#comment-158385)
+- [indienova](https://lab.indienova.com/en/g/breath_of_the_wasteland)
+- [niadd](https://es.niadd.com/statuses/1054140.html)
 
 ## License
 
