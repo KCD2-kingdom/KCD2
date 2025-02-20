@@ -145,6 +145,23 @@ We welcome contributions from the community! If you'd like to help improve our r
 - [bitsdujour](https://www.bitsdujour.com/suggest/robotask)
 - [thelazy](https://sfx.k.thelazy.net/forum/general/553/)
 - [sweet-yogini](https://www.sweet-yogini.com/sharing-what-i-love-blog/numerology-magic-science)
+- [freshdesk](https://pculture.freshdesk.com/support/discussions/topics/308365?page=1)
+- [freebsd](https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=221214)
+- [consultation.avocat.fr](https://consultation.avocat.fr/blog/amelie-fernandez/article-2965272--succession-quand-l-heritage-devient-source-de-tensions-et-de-conflit.html)
+- [renderosity](https://api.renderosity.com/gallery/items/2841346/the-best-church-exterior-designs-ideas-usa)
+- [dcinside](https://gall.dcinside.com/board/view/?id=igjdivision&no=7656)
+- [activeboard](https://cartagena.activeboard.com/t53521085/astilleros-servicios/?page=last#lastPostAnchor)
+- [kgcareeracademy](https://www.kgcareeracademy.com/post/consider-getting-your-ged-for-2024)
+- [bhsusa](https://www.blog.bhsusa.com/post/eye-on-design-an-insightful-conversation-with-interior-designer-liz-caan)
+- [geniusu](https://app.geniusu.com/mentor_circles/1743/discussions)
+- [sadd](https://www.sadd.org/post/2025-what-s-in-out)
+- [wix](https://nl.wix.com/blog/post/stapsgewijze-handleiding-een-succesvolle-freelance-website-maken)
+- [expressionengine](https://expressionengine.com/forums/topic/251115/better-link-from-comment-to-the-channel-entry-it-belongs-to#)
+- [kt.rim.or.jp](http://www.kt.rim.or.jp/~youie/cgi-bin/nanmeri/nanmeri.cgi?no=239)
+- [jebbidan.wixstudio.com](https://jebbidan.wixstudio.com/youtube/forum/general-discussions/whatsapp-plus)
+- [fnfansite.wixstudio.com](https://fnfansite.wixstudio.com/fridaynightfansite/forum/coding-and-programming/problems-with-compiling-psych-engine)
+- [imobie](https://forum.imobie.com/index.php/thread/phonerescue-for-ios/)
+- [wpomatic.lighthouseapp.com](https://wpomatic.lighthouseapp.com/projects/12080-wp-o-matic/tickets/548-interactivity-and-consequences#ticket-548-128)
 
 ## License
 
