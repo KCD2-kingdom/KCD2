@@ -167,6 +167,18 @@ We welcome contributions from the community! If you'd like to help improve our r
 - [certifiedpastryaficionado](https://www.certifiedpastryaficionado.com/strawberry-tres-leches/#comment-158385)
 - [indienova](https://lab.indienova.com/en/g/breath_of_the_wasteland)
 - [niadd](https://es.niadd.com/statuses/1054140.html)
+- [smartcommonsblog.mcla.edu](https://www.smartcommonsblog.mcla.edu/post/gender-expression-an-interview-with-corin-carpenter)
+- [highpoint-tech](https://www.highpoint-tech.com/post/mastering-nvme-hot-plug-navigating-challenges-and-ensuring-safe-removal)
+- [niadd](https://test.niadd.com/statuses/1061828.html)
+- [jobcase](https://www.jobcase.com/articles/professional-references-what-they-are-who-to-ask-and-the-importance-of-having-them)
+- [kwave.koreaportal.com](https://kwave.koreaportal.com/board/bbs/board.php?bo_table=drama&wr_id=73939&page=0&sca=&sfl=&stx=&spt=0&page=0&btype=tile&cwin=#c_90762)
+- [cyberlord](https://www.cyberlord.at/forum/?id=11711&thread=308&page=1)
+- [vfun-lounge.valofe.com](https://vfun-lounge.valofe.com/page/granderby/GeneralDiscussion)
+- [bravenet](https://pub27.bravenet.com/classified/show.php?usernum=2278338150)
+- [pinchofyum](https://pinchofyum.com/angs-chicken-wraps#comment-989111)
+- [journal-theme](https://www.journal-theme.com/1/blog/season-essentials)
+- [nvp-hrnetwerk.nl](https://www.nvp-hrnetwerk.nl/nl/blog-detail/2024/07/18/het-recruitment-fundament-aflevering-6.-recruitment-team)
+- [yoo.social](https://yoo.social/forums/thread/5731/)
 
 ## License
 
