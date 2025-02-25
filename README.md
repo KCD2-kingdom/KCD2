@@ -193,6 +193,7 @@ We welcome contributions from the community! If you'd like to help improve our r
 - [rufox](https://blogs.rufox.ru/~maksimkrutoy/27667.htm)
 - [proweb](https://volejbalrepy.proweb.cz/rozpisy/kde-najdu-spolehlivy-obchod-s-jednorazovymi-elektronickymi-cigaretami-6058/prispevek-vytvoren#pwcmfef-post-55470)
 - [crowdicity](https://makerchallenge.crowdicity.com/post/657432)
+- [chambers](http://www.chambers.com.au/glossary/milestone.php?frm=4&pstid=34&page=1#comments)
 
 ## License
 
