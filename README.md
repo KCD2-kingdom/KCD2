@@ -179,6 +179,20 @@ We welcome contributions from the community! If you'd like to help improve our r
 - [journal-theme](https://www.journal-theme.com/1/blog/season-essentials)
 - [nvp-hrnetwerk.nl](https://www.nvp-hrnetwerk.nl/nl/blog-detail/2024/07/18/het-recruitment-fundament-aflevering-6.-recruitment-team)
 - [yoo.social](https://yoo.social/forums/thread/5731/)
+- [themler](https://answers.themler.io/questions/218423/themler-update-v-559-php-8-support-for-wordpress-and-joomla-themes-added?page=1)
+- [users.atw.hu](http://users.atw.hu/nlw/viewtopic.php?p=49669#49669)
+- [connexity](https://connexity.jitbit.com/helpdesk/Ideas/48266)
+- [freehostia](http://biowong.freehostia.com/phpbb2/viewtopic.php?t=126416&start=0)
+- [squareshooter](http://squareshooter.ftw.jp/board.cgi?deal=view)
+- [twentythree](https://bl.twentythree.com/kredsvalg-2024)
+- [crowdreviews](https://www.crowdreviews.com/webtek-computer-company/i-am-in-the-akron-area-do-i-need-to-schedule-a-time-for-an-appointment-or-will-someone-be-there-to-discuss-a-potential-project)
+- [4mark](http://www.4mark.net/story/13243343/sdfsdfdfghg)
+- [ac-nantes](http://ec-leroux-44.ac-nantes.fr/guestbk.php?lng=fr)
+- [phacility](https://admin.phacility.com/F322593)
+- [dynamics365portals](https://hpdcrmportal.dynamics365portals.us/forums/general-discussion/21a8fa3b-3523-ef11-a295-001dd805e213#d4516989-7cf3-ef11-be20-001dd8027ee2)
+- [rufox](https://blogs.rufox.ru/~maksimkrutoy/27667.htm)
+- [proweb](https://volejbalrepy.proweb.cz/rozpisy/kde-najdu-spolehlivy-obchod-s-jednorazovymi-elektronickymi-cigaretami-6058/prispevek-vytvoren#pwcmfef-post-55470)
+- [crowdicity](https://makerchallenge.crowdicity.com/post/657432)
 
 ## License
 
